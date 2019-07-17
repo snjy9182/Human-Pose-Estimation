@@ -1,4 +1,4 @@
-# Human Pose Estimation From COCO
+# Human Pose Estimation using a "Residual Stacked Hourglass" Network
 
 **Sun Jay Yoo, Kevin Peng, Manan Aggarwal**
 
